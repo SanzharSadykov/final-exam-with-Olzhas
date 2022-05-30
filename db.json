@@ -1,0 +1,60 @@
+[
+  {
+   "title": "The Frame LS03A",
+   "price": "579990",
+   "discount": "399990",
+   "img": "https://images.samsung.com/is/image/samsung/p6pim/kz_ru/qe43ls03aauxce/gallery/kz-ru-the-frame-qe43ls03aauxce-front--black-thumb-492961630?$160_160_PNG$",  
+   "rating": [
+    {
+      "overall": "5.0",
+      "reviews": "1"
+    },
+    {
+      "overall": "0.0",
+      "reviews": "0"
+    },
+    {
+      "overall": "0.0",
+      "reviews": "0"
+    },
+    {
+      "overall": "4.4",
+      "reviews": "5"
+    },
+    {
+      "overall": "0.0",
+      "reviews": "0"
+    }    
+   ],
+   "credit": [
+    "0-0-36",
+    "0-0-36",
+    "0-0-36",
+    "0-0-24 + Бесплатная установка",
+    "0-0-24 + Бесплатная установка"
+   ],
+   "inches": [
+    "43\"",
+    "50\"",
+    "55\"",
+    "65\"",
+    "75\""
+   ],
+   "options": [
+    {
+     "title": "Современный дизайн",
+     "logo": "https://images.samsung.com/is/image/samsung/p6pim/kz_ru/feature/137281539/kz_ru-feature-everything-a-picture-frame-does-for-you--the-frame-does-more-beautifully--455639337?$24_24_PNG$"
+    },
+    {
+     "title": "Выберите сменную раму под ваш дизайн",
+     "logo": "https://images.samsung.com/is/content/samsung/p6pim/kz_ru/feature/137281508/kz_ru-feature-more-colors--more-styles--more-you--455639256.svg?$24_24_PNG$"
+    },
+    {
+     "title": "Art Mode",
+     "logo": "https://images.samsung.com/is/content/samsung/p6pim/kz_ru/feature/137281515/kz_ru-feature-turn-the-frame-off-and-let-your-favorite-artwork-set-the-mood--455639270.svg?$24_24_PNG$"
+    }
+   ],
+   "selected": 1,
+   "threshhold": 1
+  }
+ ]
